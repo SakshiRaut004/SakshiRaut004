@@ -26,6 +26,185 @@
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                  PERSONAL DASHBOARD                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# Building Intelligent Software for Tomorrow
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+%E2%80%A2+Artificial+Intelligence+%E2%80%A2+Data+Analytics;Learning+in+Public+through+Real+Projects;Turning+Ideas+into+Practical+Solutions"/>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+<h3>💻</h3>
+
+<b>Software</b>
+
+<br>
+
+Full Stack Applications
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>📊</h3>
+
+<b>Analytics</b>
+
+<br>
+
+Business Intelligence
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🤖</h3>
+
+<b>Artificial Intelligence</b>
+
+<br>
+
+Modern AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🚀</h3>
+
+<b>Engineering</b>
+
+<br>
+
+Continuous Growth
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Snapshot
+
+```yaml
+Name: Sakshi Raut
+
+Role:
+  AI-Focused Software Engineer
+
+Currently Building:
+  - AI Applications
+  - Data Analytics Projects
+  - Full Stack Products
+
+Currently Learning:
+  - Machine Learning
+  - LLM Applications
+  - System Design
+
+Open To:
+  - Full-Time Opportunities
+  - Internship Roles
+  - Open Source Collaboration
+
+Philosophy:
+  Learn → Build → Improve → Repeat
+```
+# 🛰 Current Engineering Radar
+
+| NOW | NEXT | FUTURE |
+|------|------|---------|
+| Python | Machine Learning | AI Engineering |
+| React | Cloud | Intelligent Systems |
+| Node.js | Docker | Distributed Applications |
+| Power BI | Data Science | AI Products |
+| SQL | System Design | Large Scale Engineering |
+
+---
+# 🔥 Featured Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-009999?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge"/>
+
+</div>
+
+---
+# 📈 By the Numbers
+
+<div align="center">
+
+| Focus | Value |
+|-------|------:|
+| 🏗 Major Projects | Growing Portfolio |
+| 📚 Continuous Learning | Every Week |
+| 🚀 Primary Domains | AI • Analytics • Software |
+| 💻 Development Style | End-to-End Projects |
+| 📖 Documentation | Repository First |
+| 🌍 Goal | Build Intelligent Products |
+
+</div>
+
+---
+# 💎 Engineering Mindset
+
+<div align="center">
+
+| Principle | Meaning |
+|-----------|---------|
+| 🎯 Purpose Driven | Build software that solves real problems |
+| 📚 Continuous Learning | Learn through implementation |
+| 🔍 Curiosity | Understand the "why" behind the technology |
+| 🤝 Collaboration | Learn from others and contribute back |
+| ⚡ Quality | Prioritize clean, maintainable solutions |
+| 🚀 Growth | Improve with every project |
+
+</div>
+
+---
+# 🌟 Why This GitHub Exists
+
+This profile is more than a collection of repositories.
+
+It is a living portfolio documenting my transition from software development into artificial intelligence engineering through practical projects, continuous learning, and iterative improvement.
+
+Every repository is built with the intention of strengthening engineering fundamentals while solving meaningful problems.
+
+---
 
 # Hi, I'm Sakshi Raut 👋
 
