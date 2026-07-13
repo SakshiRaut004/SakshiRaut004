@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<img width="100%" src="assets/hero/hero-banner.svg"/>
 
 <br><br>
 
