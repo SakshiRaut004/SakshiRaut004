@@ -132,7 +132,6 @@ Philosophy:
 | Node.js | Docker | Distributed Applications |
 | Power BI | Data Science | AI Products |
 | SQL | System Design | Large Scale Engineering |
-
 ---
 # 🔥 Featured Technologies
 
