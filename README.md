@@ -351,11 +351,6 @@ Python • Prompt Engineering • Google Gemini API • Machine Learning • Gen
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SakshiRaut004&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
