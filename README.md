@@ -338,20 +338,4 @@ Python • Prompt Engineering • Google Gemini API • Machine Learning • Gen
 | 🧠 Professional Skills | Problem Solving, Documentation, Collaboration, Continuous Learning |
 
 ---
-
-
-
 <br>
-
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiRaut004&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<img width="100%" src="assets/hero/divider.svg"/>
