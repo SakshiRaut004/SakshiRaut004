@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/github/followers/SakshiRaut004?style=for-the-badge&logo=github&color=6A5ACD&labelColor=0D1117"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SakshiRaut004&style=for-the-badge&color=00C2FF&labelColor=0D1117"/>
-
 <a href="https://github.com/SakshiRaut004?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-Explore-00C2FF?style=for-the-badge&labelColor=0D1117"/>
 </a>
