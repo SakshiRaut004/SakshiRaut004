@@ -9,9 +9,7 @@
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&lines=AI-Focused+Software+Engineer;Data+Analytics+Enthusiast;Full+Stack+Developer;Building+Intelligent+Software;Always+Learning+%E2%80%A2+Always+Building"/>
-
 <br><br>
-
 <a href="https://github.com/SakshiRaut004">
 <img src="https://img.shields.io/github/followers/SakshiRaut004?style=for-the-badge&logo=github&color=6A5ACD&labelColor=0D1117"/>
 </a>
@@ -21,7 +19,6 @@
 </a>
 
 </div>
-
 ---
 <!-- ========================================================= -->
 <!--                  PERSONAL DASHBOARD                       -->
